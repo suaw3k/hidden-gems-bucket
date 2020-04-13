@@ -3,8 +3,9 @@
     "description": "WorkFlowy offers a simpler way to stay organized. If you have a crazy job or an ambitious project, we will be your trusty sidekick.",
     "license":  "Freemium",
     "extract_dir":  "workflowy-1.3.5-beta.5760",
-    "url":  "https://github.com/workflowy/desktop-beta/releases",
+    "url":  "https://github.com/workflowy/desktop-beta/releases/download/v1.3.5-beta.5760/WorkFlowy-Beta-Installer.exe",
     "homepage":  "https://workflowy.com/",
+    "bin": "WorkFlowy-Beta-Installer.exe",
     "checkver": {
         "github": "https://github.com/workflowy/desktop-beta"
     },
